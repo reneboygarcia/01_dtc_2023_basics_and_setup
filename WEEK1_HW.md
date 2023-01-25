@@ -107,3 +107,7 @@ We will publish the solution here
 `docker run -it \
 --network=week_1_basics_and_setup_pg-network \
 taxi_ingest:v003 --user=root --password=root --host=pg-database_v1 --port=5432 --db_name=ny_taxi --table_name=green_taxi_trips_2019 --source_url=https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-01.csv.gz`
+
+
+<!-- Using git -->
+[How to upload files/folders/projects on github | Upload Project folder on github (Simple Way)](https://www.youtube.com/watch?v=eGaImwD8fPQ)
